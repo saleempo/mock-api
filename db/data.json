@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+          "uid": "Lh3WQkalsb1A7uss",
+          "name": "User1",
+          "mobileNo": "896789045",
+          "id": 1
+        },
+        {
+          "uid": "LhexjDwoCij3KqAi",
+          "name": "User2",
+          "mobileNo": "9050448378",
+          "id": 2
+        }
+      ]
+}
